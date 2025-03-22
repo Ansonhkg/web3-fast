@@ -23,6 +23,7 @@ src/
 ├── styles/          # Global styles and theme definitions
 ├── types/           # TypeScript type definitions
 └── utils/           # Utility functions and helpers
+config.ts            # Configuirable setting for the app
 ```
 
 ## Routing Configuration
