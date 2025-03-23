@@ -1,9 +1,9 @@
-import { MainLayout } from "../layouts/MainLayout";
-import { useAuth } from "../context/AuthContext";
 import DatilChainManager from "../components/DatilChainManager";
+import { useAuth } from "../context/AuthContext";
+import { MainLayout } from "../layouts/MainLayout";
 
 export const HomePage = () => {
-  const { isAuthenticated, address } = useAuth();
+  const { isAuthenticated } = useAuth();
 
   return (
     <MainLayout>

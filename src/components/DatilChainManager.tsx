@@ -13,7 +13,7 @@ import "../App.css";
 import { WalletButton } from "./common/WalletButton";
 import { useAuth } from "../context/AuthContext";
 import { useState } from "react";
-import { JSONParse, JSONStringify } from "json-with-bigint";
+import { JSONStringify } from "json-with-bigint";
 
 // declare empty object to get types
 const { vincentApi: vincentApiType } = createDatilChainManager({
