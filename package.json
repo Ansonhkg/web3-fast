@@ -14,6 +14,7 @@
     "@lit-protocol/vincent-contracts": "link:@lit-protocol/vincent-contracts",
     "@rainbow-me/rainbowkit": "^2.2.4",
     "@tanstack/react-query": "^5.69.0",
+    "json-with-bigint": "^3.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^7.4.0",

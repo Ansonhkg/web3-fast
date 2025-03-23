@@ -7,6 +7,7 @@
         "@lit-protocol/vincent-contracts": "link:@lit-protocol/vincent-contracts",
         "@rainbow-me/rainbowkit": "^2.2.4",
         "@tanstack/react-query": "^5.69.0",
+        "json-with-bigint": "^3.2.1",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-router-dom": "^7.4.0",
@@ -680,6 +681,8 @@
     "json-schema-traverse": ["json-schema-traverse@0.4.1", "", {}, "sha512-xbbCH5dCYU5T8LcEhhuh7HJ88HXuW3qsI3Y0zOZFKfZEHcpWiHU/Jxzk629Brsab/mMiHQti9wMP+845RPe3Vg=="],
 
     "json-stable-stringify-without-jsonify": ["json-stable-stringify-without-jsonify@1.0.1", "", {}, "sha512-Bdboy+l7tA3OGW6FjyFHWkP5LuByj1Tk33Ljyq0axyzdk9//JSi2u3fP1QSmd1KNwq6VOKYGlAu87CisVir6Pw=="],
+
+    "json-with-bigint": ["json-with-bigint@3.2.1", "", {}, "sha512-0f8RHpU1AwBFwIPmtm71W+cFxzlXdiBmzc3JqydsNDSKSAsr0Lso6KXRbz0h2LRwTIRiHAk/UaD+xaAN5f577w=="],
 
     "keccak": ["keccak@3.0.4", "", { "dependencies": { "node-addon-api": "^2.0.0", "node-gyp-build": "^4.2.0", "readable-stream": "^3.6.0" } }, "sha512-3vKuW0jV8J3XNTzvfyicFR5qvxrSAGl7KIhvgOu5cmWwM7tZRj3fMbj/pfIf4be7aznbc+prBWGjywox/g2Y6Q=="],
 

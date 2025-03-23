@@ -315,7 +315,6 @@ ul {
   border-radius: var(--radius);
   border: 1px solid var(--lit-border-color);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* shadow */
-  margin-bottom: 2rem; /* mb-8 */
 }
 
 .account-section h2 {
