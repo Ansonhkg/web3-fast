@@ -83,7 +83,7 @@ export const THEME = {
 // Blockchain Network Configuration
 export const NETWORKS = {
   chronicleYellowstone: {
-    id: 175177,
+    id: 175188,
     name: "Chronicle Yellowstone",
     network: "chronicle-yellowstone",
     iconUrl: "/logo.svg", // Add icon path here
