@@ -260,6 +260,14 @@ const ACTIONS = [
     type: "primary",
   },
   {
+    id: "setup-auth-services",
+    path: "/setup-auth-services",
+    name: "Setup Auth Services",
+    description: "Configure your own auth infrastructure (servers & worker)",
+    category: "Getting Started",
+    type: "primary",
+  },
+  {
     id: "network-configuration",
     path: "/network-configuration",
     name: "Network Configuration",

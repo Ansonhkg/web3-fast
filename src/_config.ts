@@ -12,7 +12,7 @@ export const WALLET_CONNECT = {
 
 // Application Information
 export const APP_INFO = {
-  name: "Web3 Fast",
+  name: "Naga Interactive Doc",
   shortName: "Lit",
   description: "Explore the Lit Protocol ecosystem",
   copyright: "Lit Protocol",

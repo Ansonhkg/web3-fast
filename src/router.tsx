@@ -20,6 +20,7 @@ import StytchTotpAuthTab from "./tabs/StytchTotpAuthTab";
 import CustomAuthTab from "./tabs/CustomAuthTab";
 import SetupLitClientTab from "./tabs/SetupLitClientTab";
 import SetupAuthManagerTab from "./tabs/SetupAuthManagerTab";
+import SetupAuthServicesTab from "./tabs/SetupAuthServicesTab";
 import NetworkConfigurationTab from "./tabs/NetworkConfigurationTab";
 import StoragePluginsTab from "./tabs/StoragePluginsTab";
 
@@ -92,6 +93,10 @@ export const router = createBrowserRouter([
       {
         path: "setup-auth-manager", 
         element: <SetupAuthManagerTab />,
+      },
+      {
+        path: "setup-auth-services",
+        element: <SetupAuthServicesTab />,
       },
       {
         path: "network-configuration",
