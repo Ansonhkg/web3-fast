@@ -86,6 +86,7 @@ import LitActionExecution from "./tabs/BuildingWithLit/MakingYourFirstRequest/Li
 import ChronicleYellowstone from "./tabs/ChronicleYellowstone";
 import LitNetworks from "./tabs/LearningLit/LitNetworks";
 import LitExplorer from "./tabs/LitExplorer";
+import { NotFoundHandler } from "./components/NotFoundHandler";
 
 // Create a type for the context
 type ContextType = {
@@ -478,6 +479,11 @@ export const router = createBrowserRouter([
       {
         path: "lit-actions/decrypting",
         element: <LitActionsDecrypting />,
+      },
+      // Catch-all route for unknown paths
+      {
+        path: "*",
+        element: <NotFoundHandler />,
       },
     ],
   },

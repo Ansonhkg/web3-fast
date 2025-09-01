@@ -979,7 +979,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/overview",
     name: "Overview",
     description: "Overview of Lit Actions",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -987,7 +987,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/quick-start",
     name: "Quick Start",
     description: "Quick start guide to Lit Actions",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -995,7 +995,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/deploying",
     name: "Deploying",
     description: "Deploying Lit Actions",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1003,7 +1003,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/fetch",
     name: "Fetching Data",
     description: "Fetching data from the web",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1011,7 +1011,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/run-once",
     name: "Run Once",
     description: "Run logic within a Lit Action only once",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1019,7 +1019,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/decrypting",
     name: "Decrypting Data",
     description: "Decrypting data within a Lit Action",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1027,7 +1027,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/get-rpc-url",
     name: "Get RPC URLs",
     description: "Get the RPC URL for a given chain",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1035,7 +1035,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/conditional-execution",
     name: "Conditional Execution",
     description: "Conditional execution of Lit Actions",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1043,7 +1043,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/pkp-signing",
     name: "PKP Signing",
     description: "Signing with a PKP",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1051,7 +1051,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/pkp-signing-eip191",
     name: "PKP Signing with EIP-191",
     description: "Signing with a PKP using EIP-191",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
   {
@@ -1059,7 +1059,7 @@ const ACTIONS: NavigationItem[] = [
     path: "/lit-actions/broadcast-and-collect",
     name: "Aggregate Node Responses",
     description: "Aggregate responses from all nodes in the network",
-    category: "Private Compute - Lit Actions",
+    category: "Autonomous Signing - Lit Actions",
     type: "primary",
   },
 ];
